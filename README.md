@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to my corner of GitHub!
 
-Thanks for stopping by — I'm Descellia, and here's a little about me:
+Hello! I'm Descellia, a curious builder who loves great design, better teamwork, figuring things out, and here's a little about me:
 
 ---
 
@@ -31,4 +31,7 @@ I get genuinely excited about discovering new tools, ideas, and workflows, wheth
 
 ---
 
-Feel free to connect or say hi!
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{descellia}/count.svg" alt="Visitor's Count" />
+</div>
