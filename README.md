@@ -36,7 +36,7 @@
 
 ## 🌈 Fun Fact
 
-I’m endlessly curious — I love trying new tools, exploring design trends, and learning things outside my comfort zone (even if it means breaking a few things along the way).
+I’m endlessly curious >< I love trying new tools, exploring design trends, and learning things outside my comfort zone (even if it means breaking a few things along the way).
 
 ---
 
