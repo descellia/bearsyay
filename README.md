@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=45&center=true&vCenter=true&width=500&height=70&color=F472B6&duration=4000&lines=Hi+there!+👋;+I'm+Descellia;+Welcome+to+my+GitHub+space!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=45&center=true&vCenter=true&width=700&height=70&color=F472B6&duration=4000&lines=Hi+there!+👋;+I'm+Descellia;+Welcome+to+my+GitHub+space!" />
 </h1>
 
 ### A passionate informatics student who loves crafting meaningful user experiences and leading creative tech projects.
