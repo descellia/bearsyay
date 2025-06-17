@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=45&center=true&vCenter=true&width=500&height=70&color=F472B6&duration=4000&lines=Hi+there!+👋;+I'm+Descellia!;+Welcome+to+my+GitHub+space!" />
 </h1>
 
-### A passionate informatics student who loves designing meaningful user experiences and managing creative tech projects.
+### A passionate informatics student who loves crafting meaningful user experiences and leading creative tech projects.
 
-- 🎓 Currently studying **Informatics** at Multimedia Nusantara University  
-- 🌱 Currently learning more about **UI/UX**, **product thinking**, and **design systems**
-- 💬 Ask me about **design tools**, **student project management**, or **web development basics**
+- 🎓 Studying **Informatics** at Multimedia Nusantara University  
+- 🌱 Learning more about **UI/UX**, **product thinking**, and **design systems**
+- 💬 Let’s talk about **design tools**, **project management**, or **web development basics**
 
 <br>
 
@@ -36,7 +36,7 @@
 
 ## 🌈 Fun Fact
 
-I’m endlessly curious. I love trying new tools, exploring design trends, and learning things outside my comfort zone, even if it means breaking a few things along the way.
+I’m endlessly curious — I love trying new tools, exploring design trends, and learning things outside my comfort zone (even if it means breaking a few things along the way).
 
 ---
 
