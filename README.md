@@ -21,12 +21,13 @@ Thanks for stopping by — I'm Descellia, and here's a little about me:
 
 - 📧 Email: **descelliiaa@gmail.com**  
 - 📱 Phone: **+62 822 8985 6699**  
+- 📸 Instagram: [@descellia](https://instagram.com/descellia)
 
 ---
 
 ### 🌈 Fun Fact
 
-I get genuinely excited about discovering new tools, ideas, and workflows — whether it's a design plugin I’ve never tried, a fresh productivity trick, or a niche internet rabbit hole. I just really enjoy exploring things I don't know (yet).
+I get genuinely excited about discovering new tools, ideas, and workflows, whether it's a design plugin I’ve never tried, a fresh productivity trick, or a niche internet rabbit hole. I just really enjoy exploring things I don't know (yet).
 
 ---
 
